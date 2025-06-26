@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am an aspiring Software Tester with hands-on training experience at Cognizant in Java Selenium Automation Testing and Salesforce CRM.  
+Eager to apply strong analytical and testing skills while continuously learning and growing through real-world project experience.✨✨
+
+<p align="center">
+  <a href="https://github.com/TSakthikeerthika/TSakthikeerthika/raw/main/resume.pdf" download>
+    <img src="https://img.shields.io/badge/📄 Download_My_Resume-2ea44f?style=for-the-badge&logo=download" alt="Download My Resume">
+  </a>
+</p>
+
 <!--
 **TSakthikeerthika/TSakthikeerthika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

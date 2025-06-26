@@ -4,10 +4,11 @@ I am an aspiring Software Tester with hands-on training experience at Cognizant 
 Eager to apply strong analytical and testing skills while continuously learning and growing through real-world project experience.✨✨
 
 <p align="center">
-  <a href="https://github.com/TSakthikeerthika/TSakthikeerthika/blob/main/Resume_Sakthikeerthika.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/TSakthikeerthika/TSakthikeerthika/main/Resume_Sakthikeerthika.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 View_Resume-2ea44f?style=for-the-badge" alt="View Resume">
   </a>
 </p>
+
 
 
 <!--

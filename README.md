@@ -9,8 +9,6 @@ Eager to apply strong analytical and testing skills while continuously learning 
   </a>
 </p>
 
-
-
 <!--
 **TSakthikeerthika/TSakthikeerthika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

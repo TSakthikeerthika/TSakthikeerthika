@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I am an aspiring Software Tester with hands-on training experience at Cognizant in Java Selenium Automation Testing and Salesforce CRM.  
-Eager to apply strong analytical and testing skills while continuously learning and growing through real-world project experience.✨✨
+I am a Product Test Analyst at Cognizant, specializing in software testing with a solid foundation in quality assurance and product validation✅️.
+
+My experience spans across Salesforce CRM, Selenium, TestNG, ALM, Jira, and other testing tools, enabling me to contribute effectively to both functional and automation testing processes📈. 
+
+I am committed to strengthening my expertise in modern testing frameworks and tools, ensuring that I add value to innovative and high-impact projects while supporting seamless product delivery.✨✨
 
 <p align="center">
   <a href="https://github.com/TSakthikeerthika/TSakthikeerthika/blob/main/Resume_Sakthikeerthika.pdf" target="_blank">

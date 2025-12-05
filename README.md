@@ -7,7 +7,7 @@ My experience spans across Salesforce CRM, Selenium, TestNG, ALM, Jira, and othe
 I am committed to strengthening my expertise in modern testing frameworks and tools, ensuring that I add value to innovative and high-impact projects while supporting seamless product delivery.✨✨
 
 <p align="center">
-  <a href="https://github.com/TSakthikeerthika/TSakthikeerthika/blob/main/Resume_Sakthikeerthika.pdf" target="_blank">
+  <a href="https://github.com/TSakthikeerthika/TSakthikeerthika/blob/main/myNewResume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 View_Resume-2ea44f?style=for-the-badge" alt="View Resume">
   </a>
 </p>
